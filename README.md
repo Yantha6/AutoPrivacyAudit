@@ -44,5 +44,5 @@ for issue in issues:
 
 
 ## 联系方式
-- Email: [1257330051@example.com]
+- Email: [1257330051@qq.com]
 - GitHub: [@Yantha6]
