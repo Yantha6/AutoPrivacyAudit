@@ -41,7 +41,10 @@ for issue in issues:
 ```
 
 运行后，你将看到输出中标明了敏感信息所在的代码行及具体提示信息。
-
+```bash
+Line 5: 检测到敏感信息 'email' （敏感关键词 & 敏感模式） 在文本: User email is test@example.com
+Line 6: 检测到敏感信息 'password' （敏感关键词） 在文本: User password: 123456
+```
 
 ## 联系方式
 - Email: [1257330051@qq.com]

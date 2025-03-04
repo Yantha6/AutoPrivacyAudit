@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="auto_privacy_audit",
-    version="0.1.1",
+    version="0.1.2",
     author="yangtianhan",
     author_email="1257330051@qq.com",
     description="自动隐私合规检测器：基于 AST 的静态代码分析工具，帮助检测代码中的敏感信息泄露风险",
